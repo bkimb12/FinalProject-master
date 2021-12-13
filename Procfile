@@ -1,1 +1,1 @@
-web: gunicorn mytravel.wsgi
+web: gunicorn FinalProject.wsgi
